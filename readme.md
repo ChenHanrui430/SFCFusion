@@ -1,17 +1,13 @@
 # [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/10445750)
 
 PyTorch implementation of SFCFusion, from the following paper:
-[SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/10445750)
+[SFCFusion](https://ieeexplore.ieee.org/document/10445750)
 ---
 ## News:
 - [2024.3.27] Release source code.
 - [2024.3.7] Paper published on IEEE Transactions on Instrumentation and Measurement. 
 - [2023.8.6] Release Inference code for infrared-visible image feep fusion.
 ## Installation:
-To test on a local machine, you may try
-```python
-
-```
 ## Evaluation
 Our env is:
 ```
