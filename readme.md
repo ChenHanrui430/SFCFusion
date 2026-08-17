@@ -1,3 +1,5 @@
+
+
 # [SFCFusion: Spatial–Frequency Collaborative Infrared and Visible Image Fusion](https://ieeexplore.ieee.org/document/10445750)
 
 PyTorch implementation of SFCFusion, from the following paper:
@@ -17,7 +19,7 @@ Pytorch: 1.13
 
 Evaluation step:
 1. Run main.m in MATLAB.
-2. Run SFCFusionDeepfuse\main.py in python.
+2. Run main.py in SFCFusionDeepfuse folder in python.
 3. Edit the parameter deep in nsst_fuse.m from 0 to 1.
 4. Run main.m in MATLAB. The final output is in fused folder.
 ## Training
@@ -43,4 +45,3 @@ If you find this repository helpful, please consider citing:
 ```
 ## License
 This project is released under the Apache License 2.0.
-
